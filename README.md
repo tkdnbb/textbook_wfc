@@ -1,2 +1,2 @@
 # textbook_wfc
-Obtain word frequency count of textbooks
+Obtain word frequency count from the textbooks.
